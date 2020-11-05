@@ -1,0 +1,7 @@
+
+ [ DEVICE DETAILS FOUND ]:
+
+Victim Public IP: 138.44.64.202
+User-Agent: Mozilla/5.0 (X11; CrOS aarch64 13421.73.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.112 Safari/537.36
+
+Current logged in user: root
